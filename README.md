@@ -1,4 +1,4 @@
-# Forum Discussions Categorization using Deep Learning & Neural Networks
+# Forum Discussions Categorization 
 
 This project focuses on categorizing forum discussions into different categories using various deep learning models. The goal is to classify text data into one of five predefined categories by leveraging different embedding techniques and neural network architectures.
 
