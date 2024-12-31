@@ -63,7 +63,6 @@ The project involves several steps, including data preparation, model training, 
 - **Embedding all-mpnet-base-v2 + Dense**: Best-performing model with high validation accuracy and excellent generalization.
 - **Transformer Model + SentenceTransformer**: Competitive performance with attention mechanisms, but slightly more complex.
 - The **Embedding all-mpnet-base-v2 + Dense** model stands out as the most practical and effective choice, offering a balance between simplicity and performance.
-
-## [Report](https://github.com/Mohamed28112003/Forum-Discussions-Categorization/blob/main/NeuralNetworks_Report.pdf) 
+- [Report](https://github.com/Mohamed28112003/Forum-Discussions-Categorization/blob/main/NeuralNetworks_Report.pdf) 
 
 
