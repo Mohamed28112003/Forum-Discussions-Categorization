@@ -62,6 +62,6 @@ The project involves several steps, including data preparation, model training, 
 - **BERT Feature Extraction + Dense**: Utilizes deep contextual embeddings, but may require fine-tuning for better generalization.
 - **Embedding all-mpnet-base-v2 + Dense**: Best-performing model with high validation accuracy and excellent generalization.
 - **Transformer Model + SentenceTransformer**: Competitive performance with attention mechanisms, but slightly more complex.
+- The **Embedding all-mpnet-base-v2 + Dense** model stands out as the most practical and effective choice, offering a balance between simplicity and performance.
 
-The **Embedding all-mpnet-base-v2 + Dense** model stands out as the most practical and effective choice, offering a balance between simplicity and performance.
 
